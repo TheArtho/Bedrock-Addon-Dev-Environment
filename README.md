@@ -16,7 +16,7 @@ This repository is a NodeJS project made to compile your **Typescript** and **Js
 ## 📁 Project Structure
 
 ```
-/Witchcraft
+/Project
 ├── packs/
 │   ├── Behavior/            → Output Behavior Pack files
 │   ├── Resource/            → Output Resource Pack files
