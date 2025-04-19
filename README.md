@@ -57,6 +57,6 @@ npm run release
 > ```
 > %LOCALAPPDATA%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\
 >     LocalState\games\com.mojang\
->         development_behavior_packs\Witchcraft BP
->         development_resource_packs\Witchcraft RP
+>         development_behavior_packs\Example Addon BP
+>         development_resource_packs\Example Addon RP
 > ```
