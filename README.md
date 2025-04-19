@@ -21,6 +21,7 @@ This repository is a NodeJS project made to compile your **Typescript** and **Js
 │   ├── Behavior/            → Output Behavior Pack files
 │   ├── Resource/            → Output Resource Pack files
 ├── src/                     → TypeScript source code
+├── ui/                      → Jsonc source code
 ├── buildconfig.json         → Contains the mod name (e.g., MyMod)
 ├── tsconfig.json
 ├── build.js                 → Build script
