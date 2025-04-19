@@ -1,6 +1,6 @@
 # Minecraft Bedrock Addon NodeJS Environment
 
-This repository is a NodeJS project made to compile and deploy your addon **Typescript** code into Minecraft bedrock.
+This repository is a NodeJS project made to compile your **Typescript** and **Jsonc** code and deploy your addon code into MCBE.
 
 ---
 
