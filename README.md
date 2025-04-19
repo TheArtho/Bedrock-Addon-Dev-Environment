@@ -22,7 +22,7 @@ This repository is a NodeJS project made to compile your **Typescript** and **Js
 │   ├── Resource/            → Output Resource Pack files
 ├── src/                     → TypeScript source code
 ├── ui/                      → Jsonc source code
-├── buildconfig.json         → Contains the mod name (e.g., MyMod)
+├── buildconfig.json         → Contains the mod name (e.g., "Example Addon")
 ├── tsconfig.json
 ├── build.js                 → Build script
 └── release.js               → Build release script
